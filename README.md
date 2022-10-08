@@ -12,4 +12,4 @@ You need to create issue in it and modify some valuable changes
 
 ##
 
-let's start your jouney with open-source and lets collabrate and work on some amazing  project
+let's start your jouney with open-source and lets collabrate and work on some amazing  project and add some amazing valuable project for html and css 
