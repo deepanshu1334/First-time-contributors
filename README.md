@@ -21,6 +21,7 @@ Break your limits into open source and start
 Add value to this repository 
 
 ##
-Modified it and upgrade it
+Modified it and upgrade it and set your first contribution
 
-##
+
+## 
