@@ -1,7 +1,6 @@
 # First-time-contributorion
 This is a repositary for first time contribution in open-source for hacktoberfest2022
 
-
 ##
 
 You just need to add some HTML and CSS project and modify some old project in it..
