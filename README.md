@@ -1,4 +1,4 @@
-# First-time-contributorion
+# First-time-contributori
 This is a repositary for first time contribution in open-source for hacktoberfest2022
 
 
